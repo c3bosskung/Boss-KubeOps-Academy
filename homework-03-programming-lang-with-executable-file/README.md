@@ -11,7 +11,7 @@
 | php                 |                |                             |                               |
 | ruby                |                |                             |                               |
 | Typescript          | .js            | tsc main.ts                 | node main.js                  |
-| deno                |                | tsc helloWorld.ts           |                               |
+| deno                |                |                             |                               |
 | bun                 |                |                             |                               |
 | python              | .py            | python main.py              | python main.py                |
 | R                   |                |                             |                               |
